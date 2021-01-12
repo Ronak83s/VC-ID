@@ -5,13 +5,13 @@ client.on('ready', () => {
 console.log(`Logged in as ${client.user.tag}!`);
 console.log("DISCORD BOT DEVLOPER")
 
-client.user.setActivity(`ok.....`, {
-type: "idle..........",
-url: "https://www.youtube.com/channel/UCF8EBnJskNhd-JON7D4CgpA"})
+client.user.setActivity(`................`, {
+type: "idle",
+url: "https://www.twitch.tv/ronak83s"})
     .then(presence => console.log(`RONAK  ${presence.game ? presence.game.none : 'DISCORD BOT DEVLOPER'}`))
     .catch(console.error);
-  let channel = client.channels.get('vc id.......'); 
+  let channel = client.channels.get('vc id........'); 
 channel.join()
 });
 
-client.login('........'); 
+client.login('Nzk4NDI1Njc3MzkyNzczMTcw.X_02CA.Vc7WdNlMzmSnzoAmfoyZZs_QdI8'); 

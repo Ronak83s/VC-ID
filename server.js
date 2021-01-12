@@ -5,12 +5,12 @@ client.on('ready', () => {
 console.log(`Logged in as ${client.user.tag}!`);
 console.log("DISCORD BOT DEVLOPER")
 
-client.user.setActivity(`................`, {
-type: "idle",
+client.user.setActivity(``, {
+type: "",
 url: "https://www.twitch.tv/ronak83s"})
     .then(presence => console.log(`RONAK  ${presence.game ? presence.game.none : 'DISCORD BOT DEVLOPER'}`))
     .catch(console.error);
-  let channel = client.channels.get('vc id........'); 
+  let channel = client.channels.get('vc id'); 
 channel.join()
 });
 

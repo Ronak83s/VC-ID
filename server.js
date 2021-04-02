@@ -14,4 +14,4 @@ url: "https://www.twitch.tv/ronak83s"})
 channel.join()
 });
 
-client.login('mfa.MI_CqSJx79NUk12idI6CGVFTFrFq5colgs9ZzBgGDOvXu_JReDW2TTSReFDjh0ivBERe3kIxdq947xMNJL6k');
+client.login('');

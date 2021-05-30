@@ -1,4 +1,0 @@
-add package 
-npm install ffmpeg-static
-
-or add mannually
